@@ -24,5 +24,5 @@ class Elements(TestTools):
         # BEN exam basic info
         self.input_username = "christoper"
         self.input_password = "Exam20240509!"
-        self.input_email = "christoper@beninc.ai"
+        self.input_email = "christoper-111@beninc1.ai"
         self.input_is_newsletter = True
